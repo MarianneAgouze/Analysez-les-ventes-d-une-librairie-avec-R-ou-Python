@@ -10,7 +10,7 @@ Fichiers fournis pour l'analyse :
 * Products : ce fichier contient l'inventaire des produits disponibles.
 
   
-Compétences évaluées:
+Compétences acquises:
 
 * Nettoyer un jeu de données.
 * Réaliser un test statistique.
